@@ -35,7 +35,6 @@
     <system>Jira</system>
     <url>https://jira.springsource.org/browse/SPR</url>
   </issueManagement>
-  <!--  -->
   <dependencies>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
